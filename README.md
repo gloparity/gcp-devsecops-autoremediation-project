@@ -1,1 +1,1 @@
-# gcp-devsecops-autoremediation-project
+# gcp-devsecops-project
